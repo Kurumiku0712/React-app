@@ -19,7 +19,7 @@ Make sure you have the following installed on your local machine:
 
 ```bash
 git clone https://github.com/Kurumiku0712/React-app.git
-cd react-todo-app
+cd React-app
 
 npm install bootstrap@5 --save
 npm i bootstrap-icons
