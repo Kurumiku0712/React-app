@@ -5,11 +5,7 @@ import { useState } from 'react';
 
 export default function App() {
 
-    const [items, setItems] = useState([
-        { id: 1, text: "Finish the avengers series" },
-        { id: 2, text: "Take my dogs to the vet" },
-        { id: 3, text: "Go to the car wash" },
-    ])
+    const [items, setItems] = useState([])
 
     const addItem = (item) => setItems([...items, item])
 
