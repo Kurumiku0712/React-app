@@ -18,7 +18,7 @@ Make sure you have the following installed on your local machine:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/react-todo-app.git
+git clone https://github.com/Kurumiku0712/React-app.git
 cd react-todo-app
 
 npm install bootstrap@5 --save
